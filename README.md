@@ -9,9 +9,11 @@ For this analysis, the temperature data of the months of June and December is an
 The key differences in this analysis is summarized as follows:
 
 June statistics:
+
 ![image](https://user-images.githubusercontent.com/78698456/115099747-f6406400-9f05-11eb-80fa-efed49395790.png)
 
 December statistics:
+
 ![image](https://user-images.githubusercontent.com/78698456/115099755-00faf900-9f06-11eb-9d39-ad75ce636299.png)
 
 - The month of December records the lowest minimum temperature than June. However, the difference between both minimum temperatures is of only eight degrees meaning that both months can potentially be equally cold.
